@@ -127,7 +127,7 @@ Error generating stack: `+e.message+`
   .hero-bio {
     font-size: 17px;
     color: var(--ink-muted);
-    max-width: 520px;
+    width: 100%;
     line-height: 1.65;
     margin-bottom: 36px;
     font-weight: 300;
