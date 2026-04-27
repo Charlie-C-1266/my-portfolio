@@ -252,7 +252,8 @@ Error generating stack: `+e.message+`
   }
   .project-card:hover .tag {
     background: var(--olive-border);
-    color: #8fa84d;
+    color: var(--ink);
+
   }
 
   /* EXPERIENCE */
